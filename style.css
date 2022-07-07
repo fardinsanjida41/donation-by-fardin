@@ -69,3 +69,42 @@ z .bottom img {
     justify-content: center;
 
 }
+
+.middle2 {
+    text-align: center;
+}
+
+.box2 {
+    width: 220px;
+    height: 200px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 50px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    box-shadow: 20px 20px 40px rgb(83, 81, 81);
+
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#food {
+    background-color: beige;
+    border-left: 5px solid rgb(34, 15, 88);
+}
+
+#shelter {
+    background-color: rgb(207, 199, 191);
+    border-bottom: 5px solid rgb(34, 15, 88);
+}
+
+#frame {
+    background-color: rgb(245, 220, 220);
+    border-left: 5px solid rgb(34, 15, 88);
+}
