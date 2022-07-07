@@ -108,3 +108,17 @@ z .bottom img {
     background-color: rgb(245, 220, 220);
     border-left: 5px solid rgb(34, 15, 88);
 }
+
+.middle3 {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 3%;
+}
+
+.half-width img {
+    width: 90%;
+}
