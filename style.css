@@ -1,0 +1,49 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h5 {
+    font-size: 20px;
+    padding-bottom: 1%;
+
+}
+
+.bottom {
+    color: white;
+    width: 60%;
+    padding: 20%;
+    margin-right: 50px;
+    background-image: url(images/donation4.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+z .bottom img {
+    width: 50%;
+    padding: 70%;
+
+}
+
+.link-button {
+    text-decoration: none;
+    margin-top: 100px;
+    color: white;
+    font-weight: 700px;
+    background-image: linear-gradient(rgb(12, 12, 128), rgb(228, 166, 228));
+    padding: 5px 40px;
+    border-radius: 5px;
+}
