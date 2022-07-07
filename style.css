@@ -146,3 +146,11 @@ z .bottom img {
     box-shadow: 10px 10px 40px rgb(83, 81, 81);
     background-color: rgb(251, 234, 253);
 }
+
+.footer {
+
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(202, 137, 137);
+    background-size: cover;
+}
